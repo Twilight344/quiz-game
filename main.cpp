@@ -5,7 +5,7 @@ int main(){
     int score = 0;
     std::string questions[] = {"what is 2 + 2? ",
                                "what is 3 + 3?",
-                               "what is 10-5?",
+                               "what is 10-5?",                 \\use your own questions 
                                "what is 11*2?"};
 
     std::string options[][4] =  {{"A. 4", "B. 5", "C. 2","D. 1"},
